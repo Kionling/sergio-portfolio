@@ -1,0 +1,25 @@
+.bold {
+    font-weight: bold;
+}
+
+
+#introRow {
+    margin: 0px;
+    height: 400px;
+}
+
+#introText {
+    margin: 0;
+    padding-left: 46px;
+}
+
+#textDiv {
+    padding-top: 90px;
+    padding-bottom: 90px;
+    padding-left: 100px;
+}
+
+#introBanner {
+    height: 500px;
+    width: 9000px;
+}
